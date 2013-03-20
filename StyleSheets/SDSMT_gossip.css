@@ -1,0 +1,163 @@
+body {
+	margin: 0px;
+	padding: 0px;
+	background: #000000 url(images/main-wrapper-bg.png) repeat;
+	font-family: 'Abel', sans-serif;
+	font-size: 16px;
+	color: #757575;
+}
+
+#wrapper {
+	width: 700px;
+	margin: 0px auto;
+	padding: 0;
+	background: #0E0E0E
+}
+
+/* Logo */
+
+#main_img {
+	padding: 30px 0px 0px 60px;
+}
+
+#logo  h1 a{
+	height:150px;
+	margin:0px;
+	padding:0px;
+	color: #FFFFFF;
+	border: none;
+	background: none;
+	text-decoration: none;
+	letter-spacing: -1px;
+	font-size: 1.5em;
+	font-family: 'Abel', sans-serif;
+}
+/*
+#logo h1 a{
+	line-height: 150px;
+	letter-spacing: -1px;
+	text-align: center;
+	text-transform: lowercase;
+	font-size: 3.8em;
+	font-family: 'Abel', sans-serif;
+}
+
+/* Header */
+#header {
+	width: 940px;
+	height: 125px;
+	margin: 0 auto;
+}
+
+/* Footer */
+
+#footer {
+	width: 680px;
+	height: 50px;
+	margin: 0 auto;
+	padding: 0px 0 15px 0;
+	border-top: 1px solid #292929;
+}
+
+#footer p {
+	margin: 0;
+	padding-top: 20px;
+	line-height: normal;
+	text-transform: uppercase;
+	text-align: center;
+	color: #444444;
+}
+
+#footer a {
+	color: #444444;
+}
+
+/* Forms */
+
+#text {
+	text-align: center;
+}
+
+#story {
+	border-style: none;
+	background-color: #FFFFCC;
+	color: black;
+	font-weight: bold;
+	padding: 5px 5px;
+	margin: 5px 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+
+#author {
+	border-style: none;
+	background-color: #FFFFCC;
+	color: black;
+	padding: 5px 2px;
+	margin: 5px 0px 0px 135px;
+}
+
+#image {
+	border-style: none;
+	background-color: #FFFFCC;
+	color: black;
+	padding: 5px 2px;
+	margin: 3px 0px 2px 134px;
+}
+
+.share {
+	margin-left:134px;
+	margin-bottom: 0px;
+    border: 1px solid #006;
+    background: #ccf;
+	height: 25px;
+	width: 70px;
+	font-size: 18px;
+	
+}
+.share:hover {
+    border: 1px solid #f00;
+    background: #eef;
+}
+
+/* Stories */
+
+#stories {
+	margin-left: 46px;
+	padding: 10px;
+	width: 600px;
+	/*border: solid;*/
+}
+
+.entry {
+	width: 552px;
+	padding: 10px;
+	margin: 10px;
+	border-style: groove;
+	background-color: #282828 ;
+	color: white;
+	border-color: #404040 ;
+}
+
+.entryData {
+	font-family: 'Electrolize', sans-serif;
+	font-size: 14px;
+}
+
+.entryStory {
+	font-family: 'Strait', sans-serif;
+	font-size: 16px;
+}
+
+/* Random Stuff */
+
+.randomSpacing1 {
+	padding: 40px 0px 23px 0px;
+	border-bottom: 1px solid #292929;
+}
+.randomSpacing2 {
+	padding: 0px 0px 23px 0px;
+	margin-top: 0px;
+	margin-bottom: 20px;
+	border-bottom: 1px solid #292929;
+}
